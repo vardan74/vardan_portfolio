@@ -1,14 +1,4 @@
-************************************************************ ;
-*  Program name     : qc_t_I_14_2_5.sas
-*  Project          : X:\BioMetrics\SAS programming\Greenlight Clinical\MG 010-001 02\csr\val\pg\tables\
-*  Written by       :  Vardan Isakhanyan  
-*  Date of creation : Fri 11/18/2022 (mm/dd/yyyy) 
-*  Description      : To Validate Table qc_t_I_14_2_5 
-*  Input file       : 
-*  Output file      : qc_t_I_14_2_5.sas7bdat, qc_t_I_14_2_5.rtf 
-*  Revision History : 
-*  Date      Author   Description of the change 
-********************************************************************************** ; 
+
 dm 'log;clear;'; 
 %include "call setup.sas"; 
 %let pgmname=qc_t_I_14_2_5.sas; 
