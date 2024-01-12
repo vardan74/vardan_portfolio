@@ -1,4 +1,4 @@
-*Summary of Sum of Diameters for Target Lesions – Phase I
+/*Summary of Sum of Diameters for Target Lesions – Phase I*/
 
 dm 'log;clear;'; 
 %include "call setup.sas"; 
