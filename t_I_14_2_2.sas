@@ -1,14 +1,5 @@
-************************************************************ ;
-*  Program name     : t_I_14_2_2.sas
-*  Project          : X:\BioMetrics\SAS programming\Greenlight Clinical\MG 010-001 02\csr\dev\pg\tables\
-*  Written by       :  Vardan Isakhanyan  
-*  Date of creation : Mon 10/31/2022 (mm/dd/yyyy) 
-*  Description      : To create Table t_I_14_2_2 
-*  Input file       : 
-*  Output file      : t_I_14_2_2.sas7bdat, t_I_14_2_2.rtf 
-*  Revision History : 
-*  Date      Author   Description of the change 
-********************************************************************************** ; 
+*Summary of Sum of Diameters for Target Lesions – Phase I
+
 dm 'log;clear;'; 
 %include "call setup.sas"; 
 %let pgmname=t_I_14_2_2.sas; 
