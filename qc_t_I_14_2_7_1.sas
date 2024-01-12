@@ -1,14 +1,4 @@
-************************************************************ ;
-*  Program name     : qc_I_14_2_7_1.sas
-*  Project          : X:\BioMetrics\SAS programming\Greenlight Clinical\MG 010-001 02\csr\val\pg\tables\
-*  Written by       :  Vardan Isakhanyan  
-*  Date of creation : Thu 11/17/2022 (mm/dd/yyyy) 
-*  Description      : To Validate Table qc_I_14_2_7_1 
-*  Input file       : 
-*  Output file      : qc_I_14_2_7_1.sas7bdat, qc_I_14_2_7_1.rtf 
-*  Revision History : 
-*  Date      Author   Description of the change 
-********************************************************************************** ; 
+
 
 /*Summary of Plasma Concentrations of MG010 (Unit) – Phase I*/
 dm 'log;clear;'; 
