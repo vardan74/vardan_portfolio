@@ -1,15 +1,5 @@
 
-************************************************************ ;
-*  Program name     : qc_t_I_14_2_3.sas
-*  Project          : X:\BioMetrics\SAS programming\Greenlight Clinical\MG 010-001 02\csr\val\pg\tables\
-*  Written by       :  Vardan Isakhanyan  
-*  Date of creation :
-*  Description      : To Validate Table qc_t_I_14_2_3 
-*  Input file       : 
-*  Output file      : qc_t_I_14_2_3.sas7bdat, qc_t_I_14_2_3.rtf 
-*  Revision History : 
-*  Date      Author   Description of the change 
-********************************************************************************** ; 
+
 
 /*Summary of Progression-free Survival – Phase I*/
 
