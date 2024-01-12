@@ -1,14 +1,4 @@
-************************************************************ ;
-*  Program name     : qc_t_I_14_2_4.sas
-*  Project          : X:\BioMetrics\SAS programming\Greenlight Clinical\MG 010-001 02\csr\val\pg\tables\
-*  Written by       :  Vardan Isakhanyan  
-*  Date of creation : Fri 11/11/2022 (mm/dd/yyyy) 
-*  Description      : To Validate Table qc_t_I_14_2_4 
-*  Input file       : 
-*  Output file      : qc_t_I_14_2_4.sas7bdat, qc_t_I_14_2_4.rtf 
-*  Revision History : 
-*  Date      Author   Description of the change 
-********************************************************************************** ; 
+
 
 /*Summary of Duration of Response – Phase I*/
 
